@@ -14,7 +14,6 @@ $ npm install @types/node get-port
   "compilerOptions": {
     "target": "es6",
     "module": "es6",
-    "esModuleInterop": true,
     "moduleResolution": "node",
     "declaration": true,
     "sourceMap": true,
