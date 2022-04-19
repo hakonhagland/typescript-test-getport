@@ -3,7 +3,8 @@
 - First run:
 ```
 $ npm init -y
-$ npm install typescript @types/node get-port
+$ npm install --savedev typescript
+$ npm install @types/node get-port
 ```
 
 - Then, add `tsconfig.json`:
